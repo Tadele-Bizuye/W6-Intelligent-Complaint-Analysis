@@ -1,0 +1,30 @@
+# Core Data Handling
+pandas==2.2.2
+numpy==1.26.4
+
+# Visualization (for EDA)
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# NLP Preprocessing
+nltk==3.8.1
+scikit-learn==1.5.0
+
+# LangChain for text chunking
+langchain==0.1.14
+
+# Embeddings - compatible version
+sentence-transformers==2.2.2
+
+# FAISS for vector search
+faiss-cpu==1.7.4
+
+# Streamlit (for Task 4 UI, optional now)
+streamlit==1.35.0
+
+# (Optional) For vector store experimentation
+chromadb==0.4.24
+
+# Avoid Keras 3 incompatibility
+tensorflow==2.11.0
+keras==2.11.0
